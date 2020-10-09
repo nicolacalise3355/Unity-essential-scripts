@@ -1,0 +1,13 @@
+Organizzazione:
+
+- Ogni Script che non ha affiancato al nome un numero é da considerarsi come script unico
+- Ogni Scrit che ha affiancato al nome un numero é da considerarsi Script di "Gruppo"
+
+Uno script di gruppo é uno script creato per lavorare insieme ad altri script
+Per riconoscere gli srcipt che devono lavorare insieme basta guardare il numero dello script
+
+Ad esempio:
+example1.cs ed func1.cs sono Script dello stesso gruppo
+example1.cs ed func2.cs non sono dello stesso gruppo
+
+. Il raggruppamente é stato realizzato mediante questi termini data la bassa quantità di file
